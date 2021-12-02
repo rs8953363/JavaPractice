@@ -18,7 +18,7 @@ public class PrimitiveTypes {
         System.out.println("number is: " +number); //overflow (Common error) Overflow olunca code hata vermiyor.
 
         int x=24;
-        byte x; //won't work
+        //byte x; //won't work
 
 
     }

@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba88e099-6f23-490d-b55a-14afed6030a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertIntegerToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCAJavaIdentifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumbersLessThanGivenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitiveValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintNumbersWithoutUsingInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJavaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJavaProjects/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyJavaProjects/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimitiveTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Bug">
+  <component name="RunManager" selected="Application.PrintNumbersWithoutUsingInteger">
     <configuration name="Bug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bug" />
       <module name="JavaPractice" />
@@ -53,22 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+    <configuration name="ConvertIntegerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertIntegerToString" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitiveTypes" />
+    <configuration name="PrimitiveValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveValues" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +66,13 @@
     </configuration>
     <configuration name="Primitives" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Primitives" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumbersWithoutUsingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintNumbersWithoutUsingInteger" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintNumbersWithoutUsingInteger" />
+        <item itemvalue="Application.ConvertIntegerToString" />
+        <item itemvalue="Application.PrimitiveValues" />
         <item itemvalue="Application.Bug" />
         <item itemvalue="Application.Primitives" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PrimitiveTypes" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +123,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PrintNumbersWithoutUsingInteger.java</url>
+          <line>4</line>
+          <properties class="PrintNumbersWithoutUsingInteger" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

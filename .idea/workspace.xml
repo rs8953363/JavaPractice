@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba88e099-6f23-490d-b55a-14afed6030a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayAndArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplacingCharWithNewOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +45,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Methods">
+  <component name="RunManager" selected="Application.ReplacingCharWithNewOne">
     <configuration name="ArrayAndArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayAndArrayList" />
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertIntegerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertIntegerToString" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReplacingCharWithNewOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplacingCharWithNewOne" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JavaPractice" />
       <method v="2">
@@ -100,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplacingCharWithNewOne" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.Methods2" />
         <item itemvalue="Application.ArrayAndArrayList" />
         <item itemvalue="Application.PrintNumbersWithoutUsingInteger" />
-        <item itemvalue="Application.ConvertIntegerToString" />
       </list>
     </recent_temporary>
   </component>

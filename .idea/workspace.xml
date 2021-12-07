@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba88e099-6f23-490d-b55a-14afed6030a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatedValuefromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringFrequency2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoStringCheckSameCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AfterSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AfterSplit2nd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrequencyCountInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrequencyOfCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsStringBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintWithoutSemicolon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/PrintNumbersWithoutUsingInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/ReplacingCharWithNewOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ReplacingCharWithNewOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapStructure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintNumbersWithoutUsingInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/PrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/PrimeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/StringFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/StringFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/isPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,37 +60,37 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.PrimeNumbers">
-    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
+  <component name="RunManager" selected="Application.PrintWithoutSemicolon">
+    <configuration name="AfterSplit2nd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AfterSplit2nd" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatedValuefromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatedValuefromString" />
+    <configuration name="PrintWithoutSemicolon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintWithoutSemicolon" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFrequency2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringFrequency2" />
+    <configuration name="RemoveIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveIt" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStringCheckSameCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoStringCheckSameCharacter" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPalindrome" />
+    <configuration name="StringFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringFrequency" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.isPalindrome" />
-        <item itemvalue="Application.RemoveDuplicatedValuefromString" />
-        <item itemvalue="Application.TwoStringCheckSameCharacter" />
-        <item itemvalue="Application.StringFrequency2" />
+        <item itemvalue="Application.PrintWithoutSemicolon" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.RemoveIt" />
+        <item itemvalue="Application.StringFrequency" />
+        <item itemvalue="Application.AfterSplit2nd" />
       </list>
     </recent_temporary>
   </component>

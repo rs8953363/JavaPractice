@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba88e099-6f23-490d-b55a-14afed6030a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReplacingCharWithNewOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatedValuefromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringFrequency2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoStringCheckSameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/PrintNumbersWithoutUsingInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/ReplacingCharWithNewOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/ReplacingCharWithNewOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintNumbersWithoutUsingInteger.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +38,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1z5HtXXEHdheQmI7jDh5sfNl1tl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="flattenPackages" value="true" />
@@ -39,43 +49,44 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ReplacingCharWithNewOne">
-    <configuration name="ArrayAndArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAndArrayList" />
+  <component name="RunManager" selected="Application.PrimeNumbers">
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods" />
+    <configuration name="RemoveDuplicatedValuefromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatedValuefromString" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods2" />
+    <configuration name="StringFrequency2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringFrequency2" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNumbersWithoutUsingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintNumbersWithoutUsingInteger" />
+    <configuration name="TwoStringCheckSameCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoStringCheckSameCharacter" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplacingCharWithNewOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplacingCharWithNewOne" />
+    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isPalindrome" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReplacingCharWithNewOne" />
-        <item itemvalue="Application.Methods" />
-        <item itemvalue="Application.Methods2" />
-        <item itemvalue="Application.ArrayAndArrayList" />
-        <item itemvalue="Application.PrintNumbersWithoutUsingInteger" />
+        <item itemvalue="Application.PrimeNumbers" />
+        <item itemvalue="Application.isPalindrome" />
+        <item itemvalue="Application.RemoveDuplicatedValuefromString" />
+        <item itemvalue="Application.TwoStringCheckSameCharacter" />
+        <item itemvalue="Application.StringFrequency2" />
       </list>
     </recent_temporary>
   </component>
@@ -127,18 +138,7 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/PrintNumbersWithoutUsingInteger.java</url>
-          <line>4</line>
-          <properties class="PrintNumbersWithoutUsingInteger" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

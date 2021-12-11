@@ -2,20 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba88e099-6f23-490d-b55a-14afed6030a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AfterSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AfterSplit2nd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrequencyCountInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrequencyOfCharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsStringBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintWithoutSemicolon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/RemoveDuplicatesFromString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/SameLetters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindUniqueCharsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveAllZerosToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasswordVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveGreaterThan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemovePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemovePalindrome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SameLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortLettersAndNumbersInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigitsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniqueCharsInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/PrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/PrimeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/StringFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/StringFrequency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/isPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/RemoveDuplicatedValuefromString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatedValuefromString.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,62 +65,49 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.PrintWithoutSemicolon">
-    <configuration name="AfterSplit2nd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AfterSplit2nd" />
+  <component name="RunManager" selected="Application.FindUniqueCharsInString">
+    <configuration name="FindUniqueCharsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindUniqueCharsInString" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintWithoutSemicolon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintWithoutSemicolon" />
+    <configuration name="MapValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapValue" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveIt" />
+    <configuration name="RemoveDuplicatesFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromString" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+    <configuration name="RemovePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemovePalindrome" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringFrequency" />
+    <configuration name="RemovePalindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemovePalindrome2" />
       <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="JavaPractice" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintWithoutSemicolon" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.RemoveIt" />
-        <item itemvalue="Application.StringFrequency" />
-        <item itemvalue="Application.AfterSplit2nd" />
+        <item itemvalue="Application.FindUniqueCharsInString" />
+        <item itemvalue="Application.MapValue" />
+        <item itemvalue="Application.RemovePalindrome2" />
+        <item itemvalue="Application.RemovePalindrome" />
+        <item itemvalue="Application.RemoveDuplicatesFromString" />
       </list>
     </recent_temporary>
   </component>

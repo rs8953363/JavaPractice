@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba88e099-6f23-490d-b55a-14afed6030a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/RemoveDuplicatesFromString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaPractice/SameLetters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindUniqueCharsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveAllZerosToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasswordVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveGreaterThan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemovePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemovePalindrome2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SameLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortLettersAndNumbersInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfDigitsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniqueCharsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/RemoveDuplicatedValuefromString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatedValuefromString.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.FindUniqueCharsInString">
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromArray">
     <configuration name="FindUniqueCharsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindUniqueCharsInString" />
       <module name="JavaPractice" />
@@ -80,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromString" />
+    <configuration name="RemoveDuplicatesFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromArray" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesFromArray" />
         <item itemvalue="Application.FindUniqueCharsInString" />
         <item itemvalue="Application.MapValue" />
         <item itemvalue="Application.RemovePalindrome2" />
         <item itemvalue="Application.RemovePalindrome" />
-        <item itemvalue="Application.RemoveDuplicatesFromString" />
       </list>
     </recent_temporary>
   </component>

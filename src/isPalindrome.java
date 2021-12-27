@@ -34,5 +34,15 @@ public class isPalindrome {
         }
         return isPalindrome2;
     }
+//    2nd solution
+//    int isPalindrome(string S){
+//        int i = 0, j = S.length()-1;
+//
+//        while(i < j){
+//            if(S[i++] != S[j--])
+//                return 0;
+//        }
+//        return 1;
+    }
 
-}
+
